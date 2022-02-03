@@ -1,1 +1,0 @@
-# Payal-Singh-Mosaic
