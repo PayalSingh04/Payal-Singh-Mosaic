@@ -1,0 +1,75 @@
+.red{background-color:#ff0000;}
+.orange{background-color:#ff9933;}
+.yellow{background-color:#ffff00;}
+.green{background-color:#66ff33;}
+.blue{background-color:#0099ff;}
+.pink{background-color:#ff6699;}
+.purple{background-color:#990099;}
+.brown{background-color:#663300;}
+
+body{background-image: linear-gradient(blue, pink, purple);}
+img{width:90px;height:90px;margin:5px 0px 0px 0px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div {
+    width:100px;
+    height:100px;
+    border: 1px solid black;
+    float:left;
+    padding: 1px;
+    text-align:center;
+}
